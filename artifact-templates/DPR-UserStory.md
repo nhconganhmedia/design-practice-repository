@@ -78,6 +78,8 @@ See [glossary entry](https://www.agilealliance.org/glossary/user-story-template/
 ### More Information
 Mike Cohn's book "User Stories Applied" is a seminal reference (@Cohn:2004). 
 
+["Unifying User stories, Use cases, Story maps"](https://alistaircockburn.com/Unifying%20us%20uc%20sm.pdf), a presentation by  Alistair Cockburn, shows how to use these concepts as "partially compatible tools in a larger toolbox".
+
 Many experience reports at Agile conferences deal with user stories; see [this collection](https://www.agilealliance.org/?s=user+story), for instance.
 
 ["How to Write High-Quality User Story"](https://medium.com/beyond-agile-leadership/how-to-write-high-quality-user-story-87cbc58c12c6) on Medium covers stories in context comprehensively.
@@ -87,7 +89,7 @@ Many experience reports at Agile conferences deal with user stories; see [this c
 ```yaml
 title: "Design Practice Repository (DPR): User Stories"
 author: Olaf Zimmermann (ZIO)
-date: "08, 30, 2024"
-copyright: Olaf Zimmermann, 2020-2024 (unless noted otherwise). All rights reserved.
+date: "09, 03, 2025"
+copyright: Olaf Zimmermann, 2020-2025 (unless noted otherwise). All rights reserved.
 license: Creative Commons Attribution 4.0 International License
 ```

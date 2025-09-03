@@ -106,7 +106,8 @@ The history of use cases dates back to Ivar Jacobson in 1986. They are an essent
 
 ### More Information
 
-"Writing Effective Use Cases" by Alistair Cockburn is a canonical reference (@Cockburn:2001).
+"Writing Effective Use Cases" by Alistair Cockburn is a canonical reference (@Cockburn:2001). 
+["Unifying User stories, Use cases, Story maps"](https://alistaircockburn.com/Unifying%20us%20uc%20sm.pdf), a presentation by  Alistair Cockburn, shows how to use these concepts as "partially compatible tools in a larger toolbox".
 
 Craig Larman's Chapter 6 in "Applying UML and Patterns" also covers Use Cases in depth (terminology, notation, levels of refinement, writing guidelines, examples). It is available as a free sample [here](https://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns), just like Chapters 2 and 5.
 
@@ -118,7 +119,7 @@ More information is available in UML books and [dedicated literature](https://en
 ```yaml
 title: "Design Practice Repository (DPR): Use Case/Use Case Model"
 author: Mirko Stocker (STX), Olaf Zimmermann (ZIO)
-date: "03, 30, 2021"
-copyright: Olaf Zimmermann, 2020-2021 (unless noted otherwise). All rights reserved.
+date: "09, 03, 2025"
+copyright: Olaf Zimmermann, 2020-2025 (unless noted otherwise). All rights reserved.
 license: Creative Commons Attribution 4.0 International License
 ```
